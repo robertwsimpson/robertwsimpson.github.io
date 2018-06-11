@@ -10,4 +10,4 @@ Over the course of the last 20 years or so, my equipment has evolved to fit what
 
 My hope is that people may get some info from me that will better their own experience with a hobby that has been fun, challenging, and important to me for many years.
 
-<img src="images/ae1.jpg">
+![My first camera]({{ "/assets/ae1.jpg" | absolute_url }})
