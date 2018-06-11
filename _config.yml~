@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: RobertSimps.in
+title: RtwoC.net
 email: robertwsimpson@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my blog about photography and Videography tips, tricks, and gear!
@@ -21,8 +21,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   things that I've developed over the course of my photography career.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+instagram_username: shmobbert
+youtube_username:  RtwoC
 
 # Build settings
 markdown: kramdown
@@ -41,3 +41,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
