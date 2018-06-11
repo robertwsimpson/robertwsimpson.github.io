@@ -9,3 +9,5 @@ Hi, I'm Robert, and I've been making images and video since I was a wee little l
 Over the course of the last 20 years or so, my equipment has evolved to fit what I am trying to do.  It's not all the newest or latest and greatest, but it is a solid foundation for what I do.  Knowledge and technique will always trump better gear, but the gear doesn't hurt!  Not to mention, searching, researching, finding, trading, selling, buying, and using tons of different gear is FUN!  Because I am proud of the gear that I have AND I know people are sometimes curious about what people are using, I'll be posting a list of my gear as well as doing individual reviews of specific items that I really like.  
 
 My hope is that people may get some info from me that will better their own experience with a hobby that has been fun, challenging, and important to me for many years.
+
+<img src="images/ae1.jpg">
