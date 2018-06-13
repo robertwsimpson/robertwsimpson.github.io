@@ -10,4 +10,9 @@ Over the course of the last 20 years or so, my equipment has evolved to fit what
 
 My hope is that people may get some info from me that will better their own experience with a hobby that has been fun, challenging, and important to me for many years.
 
-![My first camera]({{ "/assets/ae1.jpg" | absolute_url }})
+[My first camera]({{ "/assets/ae1.jpg" | absolute_url }})
+
+
+![alt text](https://github.com/robertwsimpson/robertwsimpson.github.io/blob/master/_site/assets/ae1.jpg "Canon AE-1")
+
+![Canon AE-1](https://raw.githubusercontent.com/robertwsimpson/robertwsimpson.github.io/master/_site/assets/ae1.jpg "Canon AE-1")
