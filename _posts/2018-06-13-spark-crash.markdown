@@ -10,10 +10,10 @@ As with most things, the more time went by, the braver I got with my spark.  I b
 
 One day, while attempting to capture some photos of my kids flying kites, my somewhat inaccurate depth perception bit me and I had a mid-air collision between the Spark and a kite.  Fortunately, the kite was fine, but Sparky was not.
 
-![Spark Crash](https://raw.githubusercontent.com/robertwsimpson/images/master/forblog/drone1.png "Spark Crash")
+[![Spark Crash](https://raw.githubusercontent.com/robertwsimpson/images/master/forblog/drone1.png "Spark Crash")](https://www.youtube.com/watch?v=UXCz8DI_fKk)
 
 As important as learning the limits of your equipment is becoming familiar with the inner workings of it.  And boy did I.  
 
 Check it out.
 
-![Spark Rebuild](https://raw.githubusercontent.com/robertwsimpson/images/master/forblog/drone2.png "Spark Rebuild")
+[![Spark Rebuild](https://raw.githubusercontent.com/robertwsimpson/images/master/forblog/drone2.png "Spark Rebuild")](https://www.youtube.com/watch?v=ke9swlBUV3E)
